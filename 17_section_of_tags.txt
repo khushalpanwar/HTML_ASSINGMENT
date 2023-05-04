@@ -1,0 +1,10 @@
+QUESTIOIN : 
+What are the different tags to separate sections of text ?
+
+ANSWER : 
+
+HTML Section tag defines the section of documents such as chapters, headers, footers, or any other sections. The section tag divides the content into sections and subsections. The section tag is used when requirements of two headers or footers or any other section of documents are needed. Section tag grouped the generic block of related contents. The main advantage of the section tag is, it is a semantic element, which describes its meaning to both browser and developer.
+
+In this article, we will discuss how to separate the section from another section in HTML.
+
+Syntax: Section tag is used to distribute the content i.e, it distributes the sections and subsections.  

@@ -1,0 +1,7 @@
+QUESTION : Are the HTML tags and elements the same things ?
+
+ANSWER : 
+
+-> HTML Tags and Elements are sometimes perceived as the same. However, they are not. There is a subtle difference between HTML elements and tags that many people aern't aware of.
+
+-> HTML Tags are building blocks of HTML pages. They tell the browser how it should display content to the user. A tag starts with a <bracket and ends with a >bracket. Most tags exist in pairs in HTML. Tags have an opening and closing part. They are similar, except the closing part has a / sign after the opening bracket.

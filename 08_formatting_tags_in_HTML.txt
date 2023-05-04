@@ -1,0 +1,23 @@
+QUESTION : What are the various formatting tags in HTML ?
+
+ANSWER : 
+
+As we know, HTML provides many predefined elements that are used to change the formatting of text. The formatting can be used to set the text styles (like - bold, italic, or emphasized,etc.), highlighting the text, making text superscript and subscript, etc.
+
+1. <b> and <strong> Tags :
+	Both tags are used to make text bold. The text content of the tag is shown as important information on the webpage.
+
+2. <i> and <em> Tags :
+	Both tags are used to make text italic and emphasized. Both the element have opening and closing tags.
+
+3. <small> and <big> Tags :
+	The <small> tag is used to set small font-size where as <big> tag is used to set big font-size.
+
+4. <sup> and <sub> Tags :
+	The <sup> tag is used to superscript a text whereas <sub> tag is used to subscript a text.
+
+5. <ins> and <del> Tags : 
+	The <ins> tag is used to underline a text marking the part as inserted or added. It also has an opening and a closing tag. This tag is mainly used in text in place of deleted text whereas <del> tag is used to delete the text it adds a strike line on the text.
+
+6. HTML <mark> Tag : 
+	The <mark> tag is used to highlighting a text. It has an opening and closing tag.
